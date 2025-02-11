@@ -24,13 +24,10 @@
   <a href="https://t.me/ToriUUTomi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/твоя_ссылка" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:твоя_почта@gmail.com">
+  <a href="mailto:torihatakamori@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/твоя_ссылка" target="_blank">
+  <a href="https://www.linkedin.com/in/beibarys-nygyzbayev-14645532b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
