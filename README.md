@@ -5,7 +5,7 @@
 - 🎮 Indie Game Developer specializing in **Unity & C#**
 - 🕹️ Passionate about creating **2D & 3D games**  
 - 🚀 Exploring game design, mechanics, and storytelling  
-- 🎥 Sharing my journey on [YouTube](https://www.youtube.com/твоя_ссылка)  
+- 🎥 Sharing my journey on [YouTube](https://www.youtube.com/@ToriUUTomi/featured)  
 - 🌍 Open to collaborations & freelance opportunities 
 
 ###
