@@ -1,12 +1,12 @@
-<h2 align="left">👋 Hi, I'm Beibarys!<br>🎮 Indie Game Developer | Unity & C# </h2>
+<h2 align="left">👋 Hi, I'm Beibarys!<br>📊 Aspiring Data Analyst</h2>
 
 ###
 
-- 🎮 Indie Game Developer specializing in **Unity & C#**
-- 🕹️ Passionate about creating **2D & 3D games**  
-- 🚀 Exploring game design, mechanics, and storytelling  
-- 🎥 Sharing my journey on [YouTube](https://www.youtube.com/@ToriUUTomi/featured)  
-- 🌍 Open to collaborations & freelance opportunities 
+- 📊 Graduate student in Computer Information Systems @ Boston University  
+- 📈 Exploring data analysis through **Excel, SQL**, and real-world datasets  
+- 🧠 Building dashboards, pivot tables & queries to uncover insights  
+- 🕹️ Previously developed 2D/3D games using **Unity & C#**  
+- 🌍 Open to internships, collaborations & learning opportunities
 
 ###
 
@@ -18,10 +18,6 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/@ToriUUTomi/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/ToriUUTomi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:torihatakamori@gmail.com">
