@@ -1,12 +1,13 @@
-<h2 align="left">👋 Hi, I'm Beibarys!<br>📊 Aspiring Data Analyst</h2>
+<h2 align="left">👋 Hi, I'm Beibarys!<br>📊 Aspiring Data Engineer</h2>
 
 ###
 
-- 📊 Graduate student in Computer Information Systems @ Boston University  
-- 📈 Exploring data analysis through **Excel, SQL**, and real-world datasets  
-- 🧠 Building dashboards, pivot tables & queries to uncover insights  
-- 🕹️ Previously developed 2D/3D games using **Unity & C#**  
-- 🌍 Open to internships, collaborations & learning opportunities
+- 🎓 Graduate student in Computer Information Systems @ Boston University  
+- 🗄️ Working with **SQL, Python**, and data modeling to design efficient pipelines  
+- ⚙️ Learning **ETL processes, data integration, and cloud-based solutions**  
+- 📊 Building projects that transform raw data into structured, usable formats  
+- 🕹️ Previously developed 2D/3D games with **Unity & C#**, strengthening problem-solving skills  
+- 🌍 Open to internships, collaborations & opportunities to grow as a Data Engineer
 
 ###
 
